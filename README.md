@@ -15,4 +15,4 @@ git clone https://github.com/ZiaCodes/Travel-Agency-Web-Design.git
 
 
 
-#### Demo : https://travelto.netlify.app/ 
+#### DEMO FOR WEBSITE : https://travelto.netlify.app/ 
